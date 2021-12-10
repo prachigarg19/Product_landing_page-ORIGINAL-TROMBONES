@@ -43,7 +43,7 @@
     gap:0.9rem;
     
   }
-  #submit{
+  .submit{
     color:black;
     background-color:#f1c40f;
     border:2px solid #f1c40f;
@@ -64,7 +64,7 @@
     margin-right:10em;
   }
   .icon-2,.icon-1,.icon-3{
-    color:orange;
+    color:#f1c40f;
     font-size:3rem;
     margin-left:auto;
   }
@@ -105,7 +105,7 @@
     align-self:flex-start;
   }
   .box h3{
-    background-color:#ddd;
+    background-color:#f1c40f;
     margin-top:-0.01em;
     padding:0.8em;
    height: auto;
@@ -120,7 +120,7 @@
     text-align:center;
     line-height:0.2em;
   }
-  #submit:hover{
+  .submit:hover{
     background-color:orange;
       border:2px solid orange; 
   }
